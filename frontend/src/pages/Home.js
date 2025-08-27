@@ -383,8 +383,8 @@ const Home = () => {
             transition={{ delay: 1.5 }}
             style={{
               position: 'absolute',
-              bottom: '30px',
-              left: '50%',
+              bottom: '-16px',
+              left: '54%',
               transform: 'translateX(-50%)',
               zIndex: 1,
             }}
